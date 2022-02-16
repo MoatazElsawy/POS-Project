@@ -9,4 +9,6 @@ And used DAO, BAO desin patterns and Factory DP between them, Generic Interfaces
 Then, I used JDBC to connect to database by MySql JDBC Driver.
 
 I'm used MySql DBMS to creat my schema of database for Project.
-and create (categort, warehouse, item, client, odrer, user and invoice) tables and relationship betwen them.
+and create (categort, warehouse, item, client, odrer, user and invoice) tables and relationship, constraint betwen them.
+
+I'm used Swing GUI widget toolkit to represent my view of project.
