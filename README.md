@@ -2,9 +2,9 @@
 Desktop APP that Involves all of Module, View and Controller(MVC Design Pattern).
 
 This project is fully object oriented programming(OOP) ,that represent a small point of sale project. 
-where I'm created (Item, Category, WareHouse, Client , Order, User, Invoice) for data transfer object to create retraive update delete(CRUD) from and to database by UI interface.
+where I'm created (Item, Category, WareHouse, Client , Order, User, Invoice) for data transfer object to create, retraive, update and delete(CRUD) from and to database by UI interface.
 
-I'm used MVC desin pattern to build my project ,In fact, I did not complete the view (UI) perfectly because I'm satisfied with the main idea and understanding how it works.
+I'm used MVC desin pattern to build my project ,In fact I didn't complete the view (UI) perfectly because I'm satisfied with the main idea and understanding how it works.
 And used DAO, BAO desin patterns and Factory DP between them, Generic Interfaces  to generalize and save in code
 Then, I used JDBC to connect to database by MySql JDBC Driver.
 
