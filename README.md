@@ -12,3 +12,7 @@ I'm used MySql DBMS to creat my schema of database for Project.
 and create (categort, warehouse, item, client, odrer, user and invoice) tables and relationship, constraint betwen them.
 
 I'm used Swing GUI widget toolkit to represent my view of project.
+
+tip, the user and password are ("moataz" , "ahmed") for logIn to POS project 
+Then,,  url, username and password for connection to database are locally, if you want t run this project you must chnage this(url, username and password) in jdbc.properties file 
+from this path "JSE_POS\src\com\pos\dao\util\jdbc.properties".
